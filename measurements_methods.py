@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-
+# Code used https://github.com/wahab1412/Fairness-Measurement-ML
 # Metrics are independence and separation. Code source https://dalex.drwhy.ai/python-dalex-fairness-regression.html based on: Fairness Measures for Regression via Probabilistic Classification https://arxiv.org/pdf/2001.06089.pdf
 
 
